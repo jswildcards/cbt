@@ -55,3 +55,5 @@ while True:
     else:
         dcm.cw()
 ```
+
+![lesson4_1](../public/lesson4_1.png)
