@@ -1,3 +1,6 @@
+# 完整編碼
+
+```python
 from pyatcrobo2.parts import DCMotor
 import time
 
@@ -57,3 +60,4 @@ for _ in range(3):
     time.sleep_ms(1500)
     
 brake()
+```

@@ -2,6 +2,8 @@
 
 ## [拼砌教學](https://www.artec-kk.co.jp/school/cl/textbooks/material_en/topic_6-1/6-1_build_E.pdf)
 
+## [完整編碼](./lesson5_extra.md)
+
 ## 初始化機械車
 
 ```python
